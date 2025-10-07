@@ -1,0 +1,31 @@
+.logo {
+  height: 5vh;
+  width: 5vw;
+  margin: 15px;
+}
+.Link {
+  font-family: roboto;
+  font-size: 20px;
+  text-decoration: none;
+}
+.MainContainer {
+  display: flex;
+  justify-content: space-between;
+}
+li {
+  list-style-type: none;
+  margin: 5px;
+}
+ul {
+  display: flex;
+}
+
+.card1 {
+  display: flex;
+  align-content: center;
+  align-self: center;
+  align-items: center;
+}
+.home {
+  color: black;
+}
